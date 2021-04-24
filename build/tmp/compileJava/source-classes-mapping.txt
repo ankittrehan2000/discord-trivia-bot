@@ -1,0 +1,6 @@
+com/discordbot/EmbedHelper.java
+ com.discordbot.EmbedHelper
+com/discordbot/Trivia.java
+ com.discordbot.Trivia
+com/discordbot/Main.java
+ com.discordbot.Main
